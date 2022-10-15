@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Astro ✨</h1>
-  <img src="https://user-images.githubusercontent.com/11487311/196001961-c67f3e04-dc59-4963-aaf7-78950174ba51.svg" width="120" />
+  <img src="https://user-images.githubusercontent.com/11487311/196001961-c67f3e04-dc59-4963-aaf7-78950174ba51.svg" width="100" />
   <br />
   <h4>
     🔭 Software Developer
