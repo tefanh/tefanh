@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h1>✨ Astro ✨</h1>
+  <br />
+  <img src="https://user-images.githubusercontent.com/11487311/196001961-c67f3e04-dc59-4963-aaf7-78950174ba51.svg" width="200" />
+  <br />
+  <h4><i><strong><q>Old enough to undestand</q></strong></i></h4>
+  <br />
+  <h4>🔭 I’m currently working as a Frontend Developer</h4>
+  <h4>📫 Email me at <a href="mailto:tefanhaetami87@gmail.com">tefanhaetami87@gmail.com</a></h4>
+</div>
 
 <!--
 **tefanh/tefanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
