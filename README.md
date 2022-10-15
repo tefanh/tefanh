@@ -5,7 +5,7 @@
   <h4>
     🔭 Software Developer
     &nbsp;&nbsp;&nbsp;
-    💬 Programming, Web, Tech
+    💬 Programming, Web
   </h4>
   <h4>📫 <a href="mailto:tefanhaetami87@gmail.com">tefanhaetami87@gmail.com</a></h4>
 </div>
