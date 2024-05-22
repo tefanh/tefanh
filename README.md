@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tefanhhh&exclude_repo=github-readme-stats,pw-2-tb-2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tefanhhh&show_icons=true&theme=radical&exclude_repo=github-readme-stats,pw-2-tb-2)
