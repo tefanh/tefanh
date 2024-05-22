@@ -1,6 +1,4 @@
-<div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tefanhhh&show_icons=true&theme=dark&layout=donut&exclude_repo=github-readme-stats,pw-2-tb-2)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tefanhhh&show_icons=true&theme=dark&layout=donut&exclude_repo=github-readme-stats,pw-2-tb-2)
 <div>
   <h3 align="left">Connect with me:</h3>
   <p align="left">
